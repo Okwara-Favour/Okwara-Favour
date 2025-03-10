@@ -1,6 +1,6 @@
-# Hi there 👋, my name is Favour Okwara
+## Hi there 👋, my name is Favour Okwara
 
-## About me
+# About me
 
 <!--
 **Okwara-Favour/Okwara-Favour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
