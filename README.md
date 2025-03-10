@@ -1,7 +1,7 @@
 ## Hi there 👋, my name is Favour Okwara
 
 # About me
-I am a passionate web, game developer and artist. A huge fan of Unity, Blender, Eclipse, VS/VSCode, and any software that does not give me a headache. If I am not modelling, drawing or programming, I can be found at a gym where I release my frustations after playing chess with bugs, at a beach, or jogging around your neighborhood.
+I am a passionate web, game developer and artist 😃. A huge fan of Unity, Blender, Eclipse, VS/VSCode, and any software that does not give me a headache. If I am not modelling, drawing or programming, I can be found at a gym where I release my frustations after playing chess with bugs 🏋️‍♂️, at a beach 🏖️, or jogging around your neighborhood 🏃‍♂️.
 
 <!--
 **Okwara-Favour/Okwara-Favour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
