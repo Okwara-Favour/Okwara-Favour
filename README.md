@@ -6,6 +6,7 @@ I am a passionate web, game developer and artist 😃. A huge fan of Unity, Blen
 - 🥱 I recently built a local website that keeps track of time spent learning some topic, check it out [here](https://github.com/Okwara-Favour/StudyTracker).
 - 🔭 I’m currently working on a 3d game upgrade for a previous 2d gamejam project I contributed to.
 - 👯 I’m looking to solo or collaborate on anything that sounds fun.
+  - Send ideas to okwarafavour13@yahoo.com  
 - 🤔 I’m looking for help with getting a job if you don't mind.
 
 <!--
