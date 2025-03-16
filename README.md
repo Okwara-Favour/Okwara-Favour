@@ -5,6 +5,8 @@ I am a passionate web, game developer and artist 😃. A huge fan of Unity, Blen
 
 - 🥱 I recently built a web application that keeps track of time spent learning some topic, check it out [here](https://github.com/Okwara-Favour/StudyTracker).
 - 🔭 I’m currently working on a 3d game upgrade for a previous 2d gamejam project I contributed to, [Stables In The Stable](https://itch.io/jam/uvgd-2025-reading-break-jam/rate/3355125)
+![StableIn](https://github.com/user-attachments/assets/df362387-7da9-4db3-a37c-d0ff8d22c326)
+
 - 👯 I’m looking to solo or collaborate on anything that sounds fun.
   - Send ideas to okwarafavour13@yahoo.com  
 - 🤔 I’m looking for help with getting a job if you don't mind.
