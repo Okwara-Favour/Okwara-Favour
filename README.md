@@ -1,7 +1,7 @@
 ## Hi there 👋, my name is Favour Okwara
 
 # About me
-I am a passionate web, game developer and artist 😃. A huge fan of Unity, Blender, Eclipse, VS/VSCode, and any software that does not give me a headache 😅. If I am not modelling, drawing or programming, I can be found at a gym 🏋️‍♂️ where I release my frustations after playing chess with bugs ♟️, at a beach 🏖️, or jogging around your neighborhood 🏃‍♂️.
+I am a passionate web, game developer and artist. A huge fan of Unity, Blender, Eclipse, VS/VSCode, and any software that does not give me a headache. If I am not modelling, drawing or programming, I can be found at a gym 🏋️‍♂️ where I release my frustations after playing chess with bugs, at a beach, or jogging around your neighborhood.
 
 - 🥱 I recently built a web application that keeps track of time spent learning some topic, check it out [here](https://github.com/Okwara-Favour/StudyTracker).
 - 🔭 I’m currently working on a 3d game upgrade for a previous 2d gamejam project I contributed to, [Stables In The Stable](https://itch.io/jam/uvgd-2025-reading-break-jam/rate/3355125)
